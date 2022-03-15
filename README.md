@@ -1,4 +1,4 @@
-### Welcome to Github page of controlld 
+### Welcome to GitHub page of controlld 
 👋 Welcome to the controlld GitHub page.
 Here you will find open-source projects I have been working on.
 Feel free to contact or visit the webpage.
