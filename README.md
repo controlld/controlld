@@ -1,8 +1,12 @@
 ### Welcome to Github page of controlld 
-👋 Hi, I’m @controlld
+👋 Welcome to the controlld GitHub page.
+Here you will find open-source projects I have been working on.
+Feel free to contact or visit the webpage.
 
 ### License
-All controlld projects are licensed under the GNU GPLv3 license.
+© 2021 controlld -  All Rights Reserved
+This is not free software. 
+You cannot modify or redistribute this code without explicit permission from the copyright holder.
 
 
 ```
